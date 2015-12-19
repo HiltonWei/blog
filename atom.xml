@@ -3,9 +3,9 @@
   <title><![CDATA[学士]]></title>
   <subtitle><![CDATA[学士's 博客]]></subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="http://weixueshi.me/"/>
+  <link href="http://blog.weixueshi.me/"/>
   <updated>2015-12-19T14:12:06.923Z</updated>
-  <id>http://weixueshi.me/</id>
+  <id>http://blog.weixueshi.me/</id>
   
   <author>
     <name><![CDATA[魏学士]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[[转载]为什么留在国外]]></title>
-    <link href="http://weixueshi.me/life/Lifeisever/"/>
-    <id>http://weixueshi.me/life/Lifeisever/</id>
+    <link href="http://blog.weixueshi.me/life/Lifeisever/"/>
+    <id>http://blog.weixueshi.me/life/Lifeisever/</id>
     <published>2015-09-26T03:22:05.000Z</published>
     <updated>2015-12-19T14:12:06.923Z</updated>
     <content type="html"><![CDATA[<h2 id="26gt_3B__u4E3A_u4EC0_u4E48_u7559_u5728_u56FD_u5916"><a href="#26gt_3B__u4E3A_u4EC0_u4E48_u7559_u5728_u56FD_u5916" class="headerlink" title="&gt; 为什么留在国外"></a>&gt; 为什么留在国外</h2><p>之所以转载本篇，若干年后想看看“过去的生活是种什么样子”</p>
@@ -60,16 +60,16 @@
     
     </summary>
     
-      <category term="吐槽" scheme="http://weixueshi.me/tags/%E5%90%90%E6%A7%BD/"/>
+      <category term="吐槽" scheme="http://blog.weixueshi.me/tags/%E5%90%90%E6%A7%BD/"/>
     
-      <category term="life" scheme="http://weixueshi.me/categories/life/"/>
+      <category term="life" scheme="http://blog.weixueshi.me/categories/life/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[外链测试页]]></title>
-    <link href="http://weixueshi.me/myblog/outurl/"/>
-    <id>http://weixueshi.me/myblog/outurl/</id>
+    <link href="http://blog.weixueshi.me/myblog/outurl/"/>
+    <id>http://blog.weixueshi.me/myblog/outurl/</id>
     <published>2014-12-17T08:33:49.000Z</published>
     <updated>2015-12-19T14:23:24.348Z</updated>
     <content type="html"><![CDATA[<p>转换地址<br><strong><a href="http://pan.cpp01.com/" target="_blank" rel="external">http://pan.cpp01.com/</a><br><a href="http://pan.plyz.net" target="_blank" rel="external">http://pan.plyz.net</a>   个人测试外链效果不佳<br><a href="http://www.ikoumi.com/pan" target="_blank" rel="external">http://www.ikoumi.com/pan</a></strong><br><a id="more"></a><br><strong>360 云盘</strong></p>
@@ -87,16 +87,16 @@
     
     </summary>
     
-      <category term="外链" scheme="http://weixueshi.me/tags/%E5%A4%96%E9%93%BE/"/>
+      <category term="外链" scheme="http://blog.weixueshi.me/tags/%E5%A4%96%E9%93%BE/"/>
     
-      <category term="myblog" scheme="http://weixueshi.me/categories/myblog/"/>
+      <category term="myblog" scheme="http://blog.weixueshi.me/categories/myblog/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[不要拿观众的想法来揣测编剧人的构思]]></title>
-    <link href="http://weixueshi.me/life/somethinks/"/>
-    <id>http://weixueshi.me/life/somethinks/</id>
+    <link href="http://blog.weixueshi.me/life/somethinks/"/>
+    <id>http://blog.weixueshi.me/life/somethinks/</id>
     <published>2014-12-15T05:21:57.000Z</published>
     <updated>2015-12-19T14:13:05.146Z</updated>
     <content type="html"><![CDATA[<p>12月14日，中国梦之声决赛。</p>
@@ -115,16 +115,16 @@
     
     </summary>
     
-      <category term="吐槽" scheme="http://weixueshi.me/tags/%E5%90%90%E6%A7%BD/"/>
+      <category term="吐槽" scheme="http://blog.weixueshi.me/tags/%E5%90%90%E6%A7%BD/"/>
     
-      <category term="life" scheme="http://weixueshi.me/categories/life/"/>
+      <category term="life" scheme="http://blog.weixueshi.me/categories/life/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[markdown格式]]></title>
-    <link href="http://weixueshi.me/myblog/markdownformat/"/>
-    <id>http://weixueshi.me/myblog/markdownformat/</id>
+    <link href="http://blog.weixueshi.me/myblog/markdownformat/"/>
+    <id>http://blog.weixueshi.me/myblog/markdownformat/</id>
     <published>2014-12-02T08:52:08.000Z</published>
     <updated>2015-12-19T14:12:59.251Z</updated>
     <content type="html"><![CDATA[<p>##markdown</p>
@@ -228,18 +228,18 @@ baz | baz  | bar
     
     </summary>
     
-      <category term="hexo" scheme="http://weixueshi.me/tags/hexo/"/>
+      <category term="hexo" scheme="http://blog.weixueshi.me/tags/hexo/"/>
     
-      <category term="markdown" scheme="http://weixueshi.me/tags/markdown/"/>
+      <category term="markdown" scheme="http://blog.weixueshi.me/tags/markdown/"/>
     
-      <category term="myblog" scheme="http://weixueshi.me/categories/myblog/"/>
+      <category term="myblog" scheme="http://blog.weixueshi.me/categories/myblog/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[快速创建Hexo博客]]></title>
-    <link href="http://weixueshi.me/myblog/createblog/"/>
-    <id>http://weixueshi.me/myblog/createblog/</id>
+    <link href="http://blog.weixueshi.me/myblog/createblog/"/>
+    <id>http://blog.weixueshi.me/myblog/createblog/</id>
     <published>2014-12-01T16:15:53.000Z</published>
     <updated>2015-12-19T14:12:46.767Z</updated>
     <content type="html"><![CDATA[<p>一直想弄个自己的Blog，终付诸于行动。</p>
@@ -342,11 +342,11 @@ git config --global user.name &quot;hiltonwei&quot;
     
     </summary>
     
-      <category term="hexo" scheme="http://weixueshi.me/tags/hexo/"/>
+      <category term="hexo" scheme="http://blog.weixueshi.me/tags/hexo/"/>
     
-      <category term="本站" scheme="http://weixueshi.me/tags/%E6%9C%AC%E7%AB%99/"/>
+      <category term="本站" scheme="http://blog.weixueshi.me/tags/%E6%9C%AC%E7%AB%99/"/>
     
-      <category term="myblog" scheme="http://weixueshi.me/categories/myblog/"/>
+      <category term="myblog" scheme="http://blog.weixueshi.me/categories/myblog/"/>
     
   </entry>
   

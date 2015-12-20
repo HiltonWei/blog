@@ -46,10 +46,12 @@ a:focus {
 
 #header {
   padding: 58px 0 0;
-  text-align: left;
+  text-align: right;
   border-bottom: 1px solid #ddd;
   position: relative; }
   #header .site-name {
+    right: 0;
+    margin-right: 50px;
     margin-bottom: 40px; }
     #header .site-name h1 {
       padding: 0;
@@ -68,7 +70,7 @@ a:focus {
     margin: 10px 0 -1px;
     padding: 0;
     position: absolute;
-    right: 0;
+    left: 0;
     bottom: 0; }
     #header #nav-menu a {
       display: inline-block;

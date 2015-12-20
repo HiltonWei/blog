@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.weixueshi.me/about/index.html</loc>
+    <lastmod>2015-12-20T10:13:51.204Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.weixueshi.me/404.html</loc>
     <lastmod>2015-12-19T16:22:00.795Z</lastmod>
   </url>
@@ -9,11 +14,6 @@
   <url>
     <loc>http://blog.weixueshi.me/myblog/outurl/</loc>
     <lastmod>2015-12-19T14:23:24.348Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://blog.weixueshi.me/about/index.html</loc>
-    <lastmod>2015-12-19T14:19:48.060Z</lastmod>
   </url>
   
   <url>
